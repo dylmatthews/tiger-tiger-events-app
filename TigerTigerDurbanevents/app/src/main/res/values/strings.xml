@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiger Tiger Durban events</string>
+    <string name="title_activity_event_scrolling">EventScrolling</string>
+    <string name="action_settings">Settings</string>
+</resources>
